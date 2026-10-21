@@ -1,0 +1,42 @@
+min_score: 4          # bu puanin altindaki icerikler gonderilmez
+weekly_top_n: 25      # haftalik mailde en fazla kac kayit
+daily_max: 40
+
+# Konu anahtar kelimeleri (kucuk harfle, Turkce) ve puanlari
+keywords:
+  "çağrı": 3
+  "çağrısı": 3
+  "son başvuru": 4
+  "başvuru": 2
+  "hibe": 3
+  "fon": 2
+  "destek programı": 3
+  "proje teklif": 3
+  "mali destek": 3
+  "erasmus": 3
+  "ufuk avrupa": 3
+  "ipard": 3
+  "kalkınma ajans": 2
+  "sivil toplum": 3
+  "teklif çağrısı": 3
+  "ihale": 0
+
+# Bu kelimeler gecerse puan duser
+negative:
+  "iptal": -2
+  "sonuçlar": -1
+  "sonuç listesi": -2
+  "kapanmıştır": -3
+  "sona ermiştir": -3
+
+# Basvuru turu: oncelik sirasi STK > Bireysel > Kurumsal (agirlik = ek puan)
+audiences:
+  STK:
+    weight: 3
+    words: ["stk", "dernek", "vakıf", "sivil toplum", "kâr amacı gütmeyen", "kar amacı gütmeyen", "kültür", "eğitim", "turizm", "gençlik"]
+  Bireysel:
+    weight: 2
+    words: ["birey", "genç girişimci", "girişimci", "burs", "kadın girişimci", "bireysel"]
+  Kurumsal:
+    weight: 1
+    words: ["kobi", "işletme", "şirket", "ar-ge", "ihracat", "yatırım", "kooperatif"]

@@ -1,0 +1,16 @@
+# Taranacak kaynaklar. Yeni site eklemek icin bir satir eklemeniz yeterli.
+# category: raporda gruplama icin etiket
+sources:
+  - {name: "AB Bakanlığı - Projeler", url: "https://www.ab.gov.tr/ab-bakanligi-projeleri_46008.html", category: "AB"}
+  - {name: "AB Projeleri", url: "https://abprojeleri.com/", category: "AB"}
+  - {name: "Ulusal Ajans (Erasmus+)", url: "https://www.ua.gov.tr/", category: "AB"}
+  - {name: "AB İlan", url: "https://ab-ilan.com/", category: "AB"}
+  - {name: "Ufuk Avrupa Türkiye", url: "https://ufukavrupa.org.tr/tr", category: "AB"}
+  - {name: "Yatırım Destek", url: "https://www.yatirimadestek.gov.tr/", category: "Ulusal"}
+  - {name: "KOSGEB Destekler", url: "https://www.kosgeb.gov.tr/site/tr/genel/destekler/3/destekler", category: "Ulusal"}
+  - {name: "TKDK (IPARD)", url: "https://www.tkdk.gov.tr/", category: "Ulusal"}
+  - {name: "Nextera Hibe Rehberi", url: "https://nexteradanismanlik.com/blog/devlet-hibe-ve-tesvik-rehberi-2026-tum-destekler/", category: "Rehber"}
+  # Asagidakiler eklendi; ilk calistirmada erisim/icerik kontrolu yapilmali
+  - {name: "DOKA (Doğu Karadeniz Kalkınma Ajansı)", url: "https://www.doka.org.tr/", category: "Kalkınma Ajansı"}
+  - {name: "DOKAP", url: "https://www.dokap.gov.tr/", category: "Kalkınma Ajansı"}
+  - {name: "TÜBİTAK", url: "https://www.tubitak.gov.tr/", category: "Ulusal"}
