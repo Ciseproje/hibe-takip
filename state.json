@@ -1548,6 +1548,51 @@
    ],
    "dates": [],
    "first_seen": "2026-11-11"
+  },
+  "511d87c3607e40fa": {
+   "id": "511d87c3607e40fa",
+   "title": "TEV ABD Yüksek Lisans Bursu için Başvurular Açılıyor",
+   "url": "https://ab-ilan.com/tev-abd-yuksek-lisans-bursu-icin-basvurular-aciliyor/",
+   "source": "AB İlan",
+   "category": "AB",
+   "audience": "Bireysel",
+   "score": 4,
+   "tags": [
+    "başvuru"
+   ],
+   "dates": [],
+   "first_seen": "2026-11-12"
+  },
+  "ce165a377ceb8464": {
+   "id": "ce165a377ceb8464",
+   "title": "Ufuk Avrupa Kanser Misyonu 2027 Çağrılarına Yönelik Çevrim İçi Proje Pazarı Etkinliği Düzenlenecek",
+   "url": "https://ufukavrupa.org.tr/tr/haberler/ufuk-avrupa-kanser-misyonu-2027-cagrilarina-yonelik-cevrim-ici-proje-pazari-etkinligi",
+   "source": "Ufuk Avrupa Türkiye",
+   "category": "AB",
+   "audience": "Genel",
+   "score": 6,
+   "tags": [
+    "çağrı",
+    "ufuk avrupa"
+   ],
+   "dates": [],
+   "first_seen": "2026-11-12"
+  },
+  "843fcdf75c823485": {
+   "id": "843fcdf75c823485",
+   "title": "Dayanıklı Kültürel Miras Ortaklığı (Resilient Cultural Heritage Partnership - RCH) 2027 Yılı Çok Uluslu Ortak Çağrısı Başvuruya Açıldı",
+   "url": "https://ufukavrupa.org.tr/tr/haberler/dayanikli-kulturel-miras-ortakligi-resilient-cultural-heritage-partnership-rch-2027-yili",
+   "source": "Ufuk Avrupa Türkiye",
+   "category": "AB",
+   "audience": "STK",
+   "score": 11,
+   "tags": [
+    "çağrı",
+    "çağrısı",
+    "başvuru"
+   ],
+   "dates": [],
+   "first_seen": "2026-11-12"
   }
  }
 }
